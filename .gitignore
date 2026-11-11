@@ -1,0 +1,9 @@
+# Material de aula e enunciados (não versionar)
+*.pdf
+Aula*/
+Slides/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.swp
